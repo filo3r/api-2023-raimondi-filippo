@@ -1,1 +1,5 @@
-# api-2023-raimondi-filippo
+# Prova Finale di Algoritmi e Strutture Dati 2023
+La Prova Finale di Algoritmi e Strutture Dati richiede di applicare le tecniche apprese durante il corso di Algoritmi e Principi dell'Informatica per sviluppare un programma in linguaggio C.
+## Descrizione
+Il progetto richiede l'implementazione di un programma in C che gestisca operazioni su un'ipotetica autostrada composta da stazioni di servizio. Il programma riceve in input una serie di comandi per aggiungere o rimuovere stazioni di servizio, aggiungere o rimuovere veicoli dalle stazioni, e pianificare percorsi ottimali tra le stazioni.
+L'autostrada è rappresentata come una sequenza di stazioni di servizio, ciascuna caratterizzata da una distanza dall'inizio dell'autostrada e da un parco veicoli con autonomie specifiche. Il programma deve calcolare il percorso che minimizza il numero di tappe tra una stazione di partenza e una di arrivo, rispettando condizioni come la possibilità di tornare indietro e il cambio obbligatorio del veicolo ad ogni tappa.
