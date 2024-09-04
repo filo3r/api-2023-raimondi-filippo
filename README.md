@@ -1,4 +1,4 @@
-# Prova Finale di Algoritmi e Strutture Dati 2023
+# Prova Finale di Algoritmi e Strutture Dati 2022-2023
 La Prova Finale di Algoritmi e Strutture Dati richiede di applicare le tecniche apprese durante il corso di Algoritmi e Principi dell'Informatica per sviluppare un programma in linguaggio C.
 ## Descrizione
 Il progetto richiede l'implementazione di un programma in C che gestisca operazioni su un'ipotetica autostrada composta da stazioni di servizio. Il programma riceve in input una serie di comandi per aggiungere o rimuovere stazioni di servizio, aggiungere o rimuovere veicoli dalle stazioni, e pianificare percorsi ottimali tra le stazioni.
