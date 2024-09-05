@@ -26,4 +26,27 @@ Elimina i file compilati:
 ```bash
 make clean
 ```
-
+## File di Input
+Il file di input deve essere strutturato in un formato specifico.  
+Un esempio:  
+`
+aggiungi-stazione 20 3 5 10 15
+aggiungi-stazione 4 3 1 2 3
+aggiungi-stazione 30 0
+demolisci-stazione 3
+demolisci-stazione 4
+pianifica-percorso 30 20
+aggiungi-auto 30 40
+aggiungi-stazione 50 3 20 25 7
+rottama-auto 20 8
+rottama-auto 9999 5
+rottama-auto 50 7
+pianifica-percorso 20 30 20 30
+pianifica-percorso 20 50 20 30 50
+pianifica-percorso 50 30 50 30
+pianifica-percorso 50 20 50 30 20
+aggiungi-auto 50 30
+pianifica-percorso 50 20
+`
+Ulteriori file di input per testare il programma sono disponibili nella cartella `test`.  
+Puoi utilizzare questi file per eseguire il programma e verificarne il funzionamento.
