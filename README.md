@@ -28,20 +28,10 @@ make clean
 ```
 ## File di Input
 Il file di input contiene una sequenza di comandi, uno per riga, con il seguente formato:  
-`
-aggiungi-stazione distanza numero-auto autonomia-auto-1 ... autonomia-auto-n
-`
-`
-demolisci-stazione distanza
-`
-`
-aggiungi-auto distanza-stazione autonomia-auto-da-aggiungere
-`
-`
-rottama-auto distanza-stazione autonomia-auto-da-rottamare
-`
-`
-pianifica-percorso distanza-stazione-partenza distanza-stazione-arrivo
-`
+`aggiungi-stazione distanza numero-auto autonomia-auto-1 ... autonomia-auto-n`  
+`demolisci-stazione distanza`  
+`aggiungi-auto distanza-stazione autonomia-auto-da-aggiungere`  
+`rottama-auto distanza-stazione autonomia-auto-da-rottamare`  
+`pianifica-percorso distanza-stazione-partenza distanza-stazione-arrivo`  
 Dei file di input per testare il programma sono disponibili nella cartella `test`.  
 Puoi utilizzare questi file per eseguire il programma e verificarne il funzionamento.
