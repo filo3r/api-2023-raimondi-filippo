@@ -21,7 +21,7 @@ make
 Esegui il programma passando un file di input, sostituisci `percorso/input.txt` con il file che desideri utilizzare:  
 ```bash  
 ./bin/api-2023-raimondi-filippo < percorso/input.txt
-```
+```  
 [File di test](test/test_34_input.txt)
 Elimina i file compilati:  
 ```bash
