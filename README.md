@@ -33,5 +33,6 @@ Il file di input contiene una sequenza di comandi, uno per riga, con il seguente
 `aggiungi-auto distanza-stazione autonomia-auto-da-aggiungere`  
 `rottama-auto distanza-stazione autonomia-auto-da-rottamare`  
 `pianifica-percorso distanza-stazione-partenza distanza-stazione-arrivo`  
+  
 Dei file di input per testare il programma sono disponibili nella cartella `test`.  
 Puoi utilizzare questi file per eseguire il programma e verificarne il funzionamento.
