@@ -11,8 +11,14 @@ Scarica il repository dal tuo terminale:
 git clone https://github.com/filo3r/api-2023-raimondi-filippo.git  
 ```
 Accedi alla directory del progetto:  
-`cd api-2023-raimondi-filippo`  
+```bash  
+cd api-2023-raimondi-filippo
+```
 Compila il progetto:  
-`make`  
+```bash  
+make
+```
 Esegui il programma:  
-`./bin/api-2023-raimondi-filippo < input.txt`  
+```bash  
+./bin/api-2023-raimondi-filippo < input.txt  
+```
