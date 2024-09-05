@@ -8,7 +8,7 @@ L'obiettivo è calcolare il percorso che minimizza il numero di tappe tra una st
 ## Installazione e Utilizzo
 Scarica il repository dal tuo terminale:  
 ```bash
-git clone https://github.com/filo3r/api-2023-raimondi-filippo.git  
+git clone https://github.com/filo3r/api-2023-raimondi-filippo.git
 ```
 Accedi alla directory del progetto:  
 ```bash  
@@ -20,7 +20,7 @@ make
 ```
 Esegui il programma passando un file di input, sostituisci `percorso/input.txt` con il file che desideri utilizzare:  
 ```bash  
-./bin/api-2023-raimondi-filippo < percorso/input.txt  
+./bin/api-2023-raimondi-filippo < percorso/input.txt
 ```
 Elimina i file compilati:  
 ```bash
