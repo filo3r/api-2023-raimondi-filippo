@@ -22,8 +22,7 @@ Esegui il programma passando un file di input, sostituisci `percorso/input.txt` 
 ```bash  
 ./bin/api-2023-raimondi-filippo < percorso/input.txt
 ```
-
-[File di test](test/test_34_input.txt)
+[File di test](test/test_34_input.txt)  
 Elimina i file compilati:  
 ```bash
 make clean
