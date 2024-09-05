@@ -7,9 +7,9 @@ L'obiettivo è calcolare il percorso che minimizza il numero di tappe tra una st
 [Implementazione](specifiche/ImplementazioneProgetto_2022-2023.pdf)  
 ## Installazione e Utilizzo
 Scarica il repository dal tuo terminale:  
-'''bash  
+```bash
 git clone https://github.com/filo3r/api-2023-raimondi-filippo.git  
-'''bash  
+```bash
 Accedi alla directory del progetto:  
 cd api-2023-raimondi-filippo  
 Compila il progetto:  
